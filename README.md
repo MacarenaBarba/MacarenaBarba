@@ -26,6 +26,7 @@
 - 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+<p align="center">
  &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
@@ -38,3 +39,39 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a> 
+</p>
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white">
+</a>  
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+</p>
+
+---
+## 📈 Actividad en GitHub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Actividad-Constante-%23ff005c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enfoque-Frontend-%2300c2ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aprendizaje-Continuo-%23ffaa00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribuciones-Semanales-%237f00ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repositorios%20Activos-Front%20%7C%20Fullstack-blueviolet?style=flat-square" />
+</p>
+
+---
+
+## 📊 Visitas
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MacarenaBarba" alt="Contador de Visitas" />
+</p>
